@@ -12,14 +12,13 @@
 	<body>
 		<h1>Hello, world!</h1>
 		<a href="#" class="Paragraph">Hi Testing</a>  
-        <
+        <script>
+	        console.log('HI')
+	</script>
 
 
-   <script>
-   	jQuery(document).ready(function($){ 
-   		$('.Paragraph').on({'click': function(){
-      $('.Paragraph').removeclass(
-    </script>
+   
+   
   
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
