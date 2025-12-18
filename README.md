@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me 🚀
 
-<!--
-**NEKOZAM-I/NEKOZAM-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student who enjoys building things with code and solving real-world problems.  
+Comfortable with **HTML, CSS, JavaScript, and Python** 💻  
+Currently focused on becoming a strong **full-stack developer** ⚙️  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on small web projects and practical tools  
+- 🌱 I’m currently learning **Node.js** and **React**  
+- 👯 I’m looking to collaborate on beginner-friendly web and JavaScript projects  
+- 🤔 I’m looking for help with backend architecture and best practices  
+- 💬 Ask me about web development, clean UI, and writing readable code  
+- 📫 How to reach me: GitHub issues or discussions  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I like turning simple ideas into clean, functional projects
+- Currently working on a Discord bot named <a href="https://koalli.run.place/">Koalli</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+**Goal:** keep learning, build real projects, and share useful, well-structured code 🌍
