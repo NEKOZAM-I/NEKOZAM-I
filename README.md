@@ -1,18 +1,7 @@
-## About Me 🚀
+## About Me 🚀 
+- 📖 I am a student at a school.
+- ❓ My current project is something that isn't out yet.
+- 🫂 If you want to work together, then email me at <a href="mailto:2010.raykhan@gmail.com">my Gmail.</a>
 
-Student who enjoys building things with code and solving real-world problems.  
-Comfortable with **HTML, CSS, JavaScript, and Python** 💻  
-Currently focused on becoming a strong **full-stack developer** ⚙️  
-
-- 🔭 I’m currently working on small web projects and practical tools  
-- 🌱 I’m currently learning **Node.js** and **React**  
-- 👯 I’m looking to collaborate on beginner-friendly web and JavaScript projects  
-- 🤔 I’m looking for help with backend architecture and best practices  
-- 💬 Ask me about web development, clean UI, and writing readable code  
-- 📫 How to reach me: GitHub issues or discussions  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I like turning simple ideas into clean, functional projects
-- Currently working on a Discord bot named <a href="https://koalli.run.place/">Koalli</a>
-
-  
-**Goal:** keep learning, build real projects, and share useful, well-structured code 🌍
+  Here's what I know:
+  Python • JavaScript • HTML • CSS • Flask • Bootstrap • Tailwind CSS • SQLite • Git • MongoDB • Postgre(under construction)
