@@ -1,7 +1,1 @@
-## About Me 🚀 
-- 📖 I am a student at a school.
-- ❓ My current project is <a href="https://pageify.run.place/">Pageify</a>.
-- 🫂 If you want to work together, then email me at <a href="mailto:2010.raykhan@gmail.com">my Gmail.</a>
-
-  Here's what I know:
-  Python • JavaScript • HTML • CSS • Flask • Bootstrap • Tailwind CSS • SQLite • Git • MongoDB • Postgre(under construction)
+Yoo! Here's what I think. AI is advancing way too fast, and honestly, I think it's gonna change the job market more than people realize. By the time I finish uni, it'll probably be doing things we can't even imagine today. It's kinda funny seeing people say "AI is gonna take our jobs" while using AI every single day. Don't they understand? Guess we'll just have to adapt before it adapts faster than us.
