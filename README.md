@@ -1,1 +1,3 @@
-> Yoo! Here's what I think. AI is advancing way too fast, and honestly, I think it's gonna change the job market more than people realize. By the time I finish uni, it'll probably be doing things we can't even imagine today. It's kinda funny seeing people say "AI is gonna take our jobs" while using AI every single day. The more you use an AI model the more you train it to take your jobs.<br>https://nekozami.is-a.dev/
+> Yoo! Here's what I think. AI is advancing way too fast, and honestly, I think it's gonna change the job market more than people realize. By the time I finish uni, it'll probably be doing things we can't even imagine today. It's kinda funny seeing people say "AI is gonna take our jobs" while using AI every single day. The more you use an AI model the more you train it to take your jobs.
+
+<br>https://nekozami.is-a.dev/
